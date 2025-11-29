@@ -1,1 +1,2 @@
 # vitis-vision
+VitisVision é um sistema de classificação de doenças em folhas de uva baseado em técnicas de extração de características handcrafted. O projeto implementa um pipeline completo de reconhecimento de padrões, incluindo pré-processamento, extração de atributos, fusão de características e classificação utilizando k-NN. O objetivo é demonstrar a eficácia de métodos clássicos em um problema real de análise de imagens.
